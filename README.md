@@ -1,18 +1,118 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I am a Computer Science undergraduate with a deep passion for Software Development and Artificial Intelligence. I love turning complex problems into scalable solutions through code.<br><br>- 🔭 Currently focused on building robust AI/ML models and full-stack applications.<br>- 🌱 Actively expanding my expertise in Data Structures & Algorithms, Machine Learning, Deep Learning, and Spring Boot.<br>- 💻 Proficient in C++ and dedicated to mastering algorithmic problem-solving.<br>- 🤝 Open to collaborating on open-source initiatives and innovative software projects.<br>- 🧠 Deeply interested in the intersection of Backend Development and AI.<br>- 💬 Feel free to reach out to me about C++, Python, DSA, Git/GitHub, or Web Development.<br>- ⚡ Fun fact: I believe the best way to master a technology is to build something tangible with it!
+# 👋 Hi, I'm Anjali Pandey
 
+### 💻 Computer Science Undergraduate | Software Development | AI/ML
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/## 👋 About Me  🎓 B.Tech Computer Science student passionate about **Software Development and Artificial Intelligence**.  - 🔭 Currently working on **AI/ML and Full-Stack Development projects** - 🌱 Currently learning **DSA, Machine Learning, Deep Learning & Spring Boot** - 💻 Practicing **C++ and Data Structures & Algorithms** - 🤝 Open to collaborating on **Open Source and Software Development projects** - 🧠 Interested in **AI/ML, Backend Development and Problem Solving** - 💬 Ask me about **C++, Python, DSA, Git/GitHub & Web Development** - ⚡ Fun fact: **I love learning by building projects!**) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anjali Pandey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjalipandey2362@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anjalipandey2362-ux&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anjalipandey2362-ux&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anjalipandey2362-ux&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I am a Computer Science undergraduate passionate about **Software Development, Artificial Intelligence, and Problem Solving**. I enjoy building projects, learning new technologies, and solving coding challenges.
 
 ---
-[![](https://komarev.com/ghpvc/?username=anjalipandey2362-ux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🔭 Currently working on **AI/ML and Full-Stack Development projects**
+- 🌱 Currently learning **Data Structures & Algorithms, Machine Learning, Deep Learning & Spring Boot**
+- 💻 Strongly focused on **C++ and algorithmic problem solving**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning and Backend Development**
+- 🚀 Building projects to strengthen my practical development skills
+- 🤝 Open to collaborating on **Open Source and innovative software projects**
+- 💬 Ask me about **C++, Python, DSA, Git/GitHub and Web Development**
+- ⚡ Fun fact: **I believe the best way to learn technology is by building real projects.**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-pandey-a61105363/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjalipandey2362-ux)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjalipandey2362@gmail.com)
+
+---
+
+## 🧠 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anjalipandey2362/)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/elect_hint_95)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/anjalipandey2362)
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+### 🗄️ Databases & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=anjalipandey2362-ux&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=anjalipandey2362-ux&theme=nightowl&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipandey2362-ux&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=anjalipandey2362-ux&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 📈 My Coding Journey
+
+```text
+C++ → DSA → Problem Solving → Web Development
+                         ↓
+                    AI / ML / DL
+                         ↓
+                Backend Development
+                         ↓
+               Full-Stack Development
+
+
+### One important thing
+
+I kept **Java, TypeScript, AWS, Oracle, Redis, Spring Boot, etc.** because they were in your original Tech Stack. But if you're **currently learning** some of these rather than actually using them, it's better to remove them from the GitHub profile. A recruiter may ask questions about anything listed there.
+
+For your current profile, I'd especially keep:
+
+**C++ | C | Python | JavaScript | HTML | CSS | DSA | NumPy | Pandas | Scikit-learn | Git | GitHub | MySQL**
+
+and add **Java + Spring Boot** once you're comfortable with them.
