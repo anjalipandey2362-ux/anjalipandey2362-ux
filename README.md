@@ -10,22 +10,43 @@ I enjoy turning ideas into working projects while continuously improving my skil
 
 ## 🚀 About Me
 
-* 🎓 Computer Science undergraduate specializing in **Data Science**
-* 💻 Strong focus on **C++ and Data Structures & Algorithms**
-* 🌱 Currently learning **Machine Learning, Deep Learning & Spring Boot**
-* 🤖 Interested in **AI/ML, Backend Development & Intelligent Applications**
-* 🌐 Exploring **Full-Stack Web Development**
-* 🧩 Practicing problems on **LeetCode, CodeChef & HackerRank**
-* 🛠️ Building projects to gain real-world development experience
-* 🤝 Open to collaborating on **Open Source & Innovative Projects**
-* 📚 Always learning, experimenting, and improving
-* ⚡ *I believe the best way to learn technology is by building.*
+- 🎓 Computer Science undergraduate specializing in **Data Science**
+- 💻 Strong focus on **C++ and Data Structures & Algorithms**
+- 🌱 Currently learning **Machine Learning, Deep Learning & Spring Boot**
+- 🤖 Interested in **AI/ML, Backend Development & Intelligent Applications**
+- 🌐 Exploring **Full-Stack Web Development**
+- 🧩 Practicing problems on **LeetCode, CodeChef & HackerRank**
+- 🛠️ Building projects to gain real-world development experience
+- 🤝 Open to collaborating on **Open Source & Innovative Projects**
+- 📚 Always learning, experimenting, and improving
+- ⚡ *I believe the best way to learn technology is by building.*
 
 ---
 
-## 🧠 Currently Learning
+# 🌟 What I Like Building
+
+I’m especially interested in building **intelligent applications that solve real-world problems**.
+
+My goal is to combine:
 
 ```text
+💻 Software Development
+        +
+🧠 Data & AI
+        +
+🎯 Real-World Problems
+        ↓
+🚀 Practical Solutions
+Areas I'm Exploring
+🏥 AI for smarter healthcare systems
+🌊 AI-based disaster & flood-risk prediction
+🎓 Student growth & placement platforms
+🤖 Intelligent chatbots and AI assistants
+📊 Data-driven decision support systems
+
+I don't just want to build projects that work — I want to build projects that solve a problem.
+
+🧠 Currently Learning
 C++ & DSA
     ↓
 Problem Solving
@@ -39,118 +60,102 @@ AI / Machine Learning
 Deep Learning
     ↓
 Full-Stack + AI Projects
-```
+💻 Tech Stack
+👨‍💻 Programming Languages
 
----
 
-# 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-### 🤖 AI / Machine Learning
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
 
-### 🗄️ Database & Backend
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+🌐 Web Development
 
-### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
----
 
-# 🧩 Problem Solving
+
+
+
+
+🤖 AI / Machine Learning
+
+
+
+
+
+
+
+
+🗄️ Database & Backend
+
+
+
+
+🛠️ Tools
+
+
+
+
+
+
+🧩 Problem Solving
 
 I practice coding problems to improve my:
 
-* Data Structures & Algorithms
-* Logical Thinking
-* Problem Solving
-* Time & Space Complexity
-* Competitive Programming
+Data Structures & Algorithms
+Logical Thinking
+Problem Solving
+Time & Space Complexity
+Competitive Programming
+📌 Coding Profiles
 
-### 📌 Coding Profiles
+🚀 Featured Projects
+🎓 Student Growth & Placement Platform
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/anjalipandey2362/)
+A platform designed to help students track their skills, learning progress, courses, and placement preparation.
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/users/elect_hint_95)
+Focus: Full-Stack Development • Student Analytics • Career Preparation
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge\&logo=hackerrank\&logoColor=black)](https://www.hackerrank.com/profile/anjalipandey2362)
-
----
-
-# 🚀 Featured Projects
-
-## 🎓 Student Growth & Placement Platform
-
-A platform designed to help students track their **skills, learning progress, courses, and placement preparation**.
-
-**Focus:** Full-Stack Development • Student Analytics • Career Preparation
-
----
-
-## 🤖 AI / ML Projects
+🤖 AI / ML Projects
 
 Currently exploring practical AI/ML applications involving:
 
-* Machine Learning Classification
-* Data Analysis & Visualization
-* Predictive Models
-* AI-Assisted Applications
-* Computer Vision
+Machine Learning Classification
+Data Analysis & Visualization
+Predictive Models
+AI-Assisted Applications
+Computer Vision
+🧪 From Idea → Solution
 
----
+I follow a simple approach when building projects:
 
-# 🌐 Connect With Me
+💡 Find a Problem
+      ↓
+🔍 Understand the User
+      ↓
+📊 Collect & Analyze Data
+      ↓
+🧠 Design the Solution
+      ↓
+💻 Build the MVP
+      ↓
+🧪 Test & Debug
+      ↓
+🚀 Deploy & Improve
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anjali-pandey-a61105363/)
+I believe a good project is not defined by how many technologies it uses, but by how effectively it solves a real problem.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/anjalipandey2362-ux)
+🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anjalipandey2362@gmail.com)
+📊 GitHub Stats
 
----
+🏆 GitHub Trophies
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=anjalipandey2362-ux\&theme=nightowl\&hide_border=false\&include_all_commits=true\&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=anjalipandey2362-ux\&theme=nightowl\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalipandey2362-ux\&theme=nightowl\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=anjalipandey2362-ux\&theme=onedark\&no-frame=false\&no-bg=false\&margin-w=4)
-
----
-
-# 📈 My Learning Journey
-
-```text
+📈 My Learning Journey
         C / C++
            ↓
           DSA
@@ -167,33 +172,20 @@ Currently exploring practical AI/ML applications involving:
            ↓
   Full-Stack + AI
       Projects
-```
+🎯 2026 Goals
+🧠 Strengthen DSA & Problem Solving
+💻 Build strong Full-Stack Development skills
+☕ Learn Java + Spring Boot
+🤖 Build practical AI/ML Projects
+🗄️ Improve DBMS & SQL
+🚀 Build and deploy real-world projects
+🏆 Participate in hackathons and coding contests
+📚 Contribute to Open Source
+✨ My Developer Philosophy
+Think → Build → Break → Debug → Learn → Improve → Repeat
 
----
+Learn the technology. Understand the problem. Build the solution.
 
-# 🎯 2026 Goals
-
-* 🧠 Strengthen **DSA & Problem Solving**
-* 💻 Build strong **Full-Stack Development** skills
-* ☕ Learn **Java + Spring Boot**
-* 🤖 Build practical **AI/ML Projects**
-* 🗄️ Improve **DBMS & SQL**
-* 🚀 Build and deploy real-world projects
-* 🏆 Participate in hackathons and coding contests
-* 📚 Contribute to Open Source
-
----
-
-# ✨ My Philosophy
-
-```text
-💡 Build → Break → Debug → Learn → Improve
-```
-
-> **Code with purpose. Learn by building. Improve every day.**
-
----
-
-⭐ **Thanks for visiting my profile!**
+⭐ Thanks for visiting my profile!
 
 If you find something interesting in my repositories, feel free to explore, connect, or collaborate.
