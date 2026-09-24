@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Anjali Pandey
+# 👋 Hi, I'm Anjali Pandey 😊
+
 
 ### 💻 Computer Science Undergraduate | Software Development | AI/ML | DSA
 
