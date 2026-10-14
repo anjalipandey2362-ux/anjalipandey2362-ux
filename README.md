@@ -201,37 +201,157 @@ For me, Data Structures and Algorithms are about more than passing test cases. T
 
 ---
 
-# 🚀 Projects & Hands-On Learning
 
-I use projects and practical exercises to connect programming concepts with real-world applications.
+---
 
-### 🌱 Crop Disease Detection Using Deep Learning
+# 🚀 Featured Projects
 
-Exploring the use of computer vision and deep learning to classify crop leaf images and identify potential diseases.
+<div align="center">
 
-**Areas of Work**
+### Turning Ideas into Practical Learning
+
+*Exploring software development, AI/ML, and data-driven solutions through projects and hands-on experimentation.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌱 Crop Disease Detection</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-In_Progress-9370DB?style=for-the-badge" alt="In progress"/>
+
+<img src="https://img.shields.io/badge/AI%2FML-7F00FF?style=flat-square" alt="AI and machine learning"/>
+<img src="https://img.shields.io/badge/Computer_Vision-4169E1?style=flat-square" alt="Computer vision"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+
+</div>
+
+**Overview**
+
+An ongoing project exploring deep learning techniques to classify crop leaf images and identify potential plant diseases.
+
+**Technical focus**
 - Image preprocessing and classification
 - CNN and transfer learning experiments
 - Model training and evaluation
 - Computer vision for agricultural applications
 
-**Technologies:** Python · Deep Learning · Computer Vision
+**Learning goals**
 
-[🔗 Explore My Repositories](https://github.com/anjalipandey2362-ux?tab=repositories)
+Understand image-classification workflows, evaluate model performance, and explore practical AI/ML applications.
 
-### 🎓 Student Growth & Placement Platform
+<div align="center">
 
-Exploring a student-focused platform concept for learning progress, skill development, and placement preparation.
+<a href="https://github.com/anjalipandey2362-ux?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Repositories-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
-**Areas of Interest**
-- Student skill tracking
-- Learning progress and career preparation
-- Student analytics
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 Student Growth & Placement Platform</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Concept-9370DB?style=for-the-badge" alt="Concept stage"/>
+
+<img src="https://img.shields.io/badge/Student_Development-7F00FF?style=flat-square" alt="Student development"/>
+<img src="https://img.shields.io/badge/Placement_Preparation-4169E1?style=flat-square" alt="Placement preparation"/>
+
+</div>
+
+**Overview**
+
+A planned student-focused platform concept exploring how technology could support learning progress, skill development, and placement preparation.
+
+**Proposed areas**
+- Student skill and progress tracking
+- Learning and career preparation
+- Student progress analytics
 - Full-stack application development
 
-**Technologies:** Based on the actual implementation of the project.
+**Current stage**
 
-[🔗 Explore My Repositories](https://github.com/anjalipandey2362-ux?tab=repositories)
+Concept exploration. These are proposed ideas, not implemented features. The technology stack will be decided during development.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next_Step-Plan_&_Design-6A5ACD?style=for-the-badge" alt="Next step: planning and design"/>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center">📈 Predictive Maintenance Using Industrial Sensor Time Series</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Repository-Forked-9370DB?style=for-the-badge" alt="Forked repository"/>
+<img src="https://img.shields.io/badge/Domain-Predictive_Maintenance-4169E1?style=flat-square" alt="Predictive maintenance"/>
+<img src="https://img.shields.io/badge/Data-Industrial_Time_Series-7F00FF?style=flat-square" alt="Industrial time series"/>
+
+</div>
+
+**Overview**
+
+A forked repository related to predictive maintenance using industrial sensor time-series data.
+
+**Learning focus**
+- Explore the repository's code and documentation
+- Understand the dataset and project workflow
+- Investigate the methods used for predictive maintenance
+
+**Contribution status**
+
+Forked for exploration and learning. No original implementation, modifications, or model results are claimed here.
+
+<div align="center">
+
+<a href="https://github.com/anjalipandey2362-ux/Predictive_maintenance_using_industrial_sensor-time_series">
+<img src="https://img.shields.io/badge/View_Forked_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View forked repository"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 More Coding & Experiments
+
+Alongside my featured projects, I practice programming fundamentals, Data Structures & Algorithms, SQL, data analysis, and machine learning concepts.
+
+<div align="center">
+
+<a href="https://github.com/anjalipandey2362-ux?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+</a>
+
+</div>
+
+### 🔧 My Project Workflow
+
+<div align="center">
+
+`🎯 Understand` → `🧠 Plan` → `💻 Build` → `🧪 Test` → `📊 Evaluate` → `🚀 Improve`
+
+</div>
+
+> **My approach:** Focus on understanding the problem, writing maintainable code, testing carefully, and learning from every iteration.
+
+---
+
 
 ### 🔬 Learning Through Experiments
 
