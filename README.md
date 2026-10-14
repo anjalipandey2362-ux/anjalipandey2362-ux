@@ -1,111 +1,123 @@
 
-<!-- ===================== HEADER ===================== -->
+<!-- ================================================== -->
+<!--                 ANJALI PANDEY                      -->
+<!-- ================================================== -->
 
 <div align="center">
 
-# 👋 Hi, I'm Anjali Pandey 😊
+# 👋 Hi, I'm Anjali Pandey! 💜
 
-### 💻 Computer Science Undergraduate | Software Development | AI/ML | DSA
+### Computer Science Undergraduate | Data Science | Software Development
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Problem+Solver+in+Progress+%F0%9F%A7%A9;Building+Ideas+into+Working+Projects+%F0%9F%9A%80;Exploring+AI%2FML+%26+Full-Stack+Development+%F0%9F%A4%96;Learn.+Build.+Debug.+Repeat.+%E2%9C%A8" alt="Developer introduction"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Learning+by+Building+%F0%9F%9A%80;Exploring+AI%2FML+%26+Data+Science+%F0%9F%A4%96;Solving+Problems+with+C%2B%2B+%F0%9F%A7%A9;Turning+Curiosity+into+Code+%E2%9C%A8" alt="Animated introduction"/>
 
 <p>
   <a href="https://github.com/anjalipandey2362-ux">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/anjali-pandey-a61105363/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:anjalipandey2362@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-**Turning curiosity into code and ideas into impact.**
+**Think deeply. Build boldly. Learn continuously.**
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌷 About Me
 
-I'm a Computer Science undergraduate specializing in **Data Science**, interested in building practical software, solving algorithmic problems, and exploring Artificial Intelligence and Machine Learning.
+Hey there! I'm Anjali, a Computer Science undergraduate specializing in **Data Science**, passionate about problem-solving, software development, and exploring intelligent technologies.
 
-I enjoy understanding how things work, experimenting with new technologies, and learning through real-world projects.
+I enjoy understanding the logic behind things, experimenting with new ideas, and turning what I learn into practical applications.
 
 - 🎓 Computer Science undergraduate specializing in Data Science
-- 💻 Focused on C++ and Data Structures & Algorithms
-- 🌱 Currently learning Machine Learning, Deep Learning, and Spring Boot
-- 🤖 Interested in AI/ML, backend engineering, and intelligent applications
-- 🌐 Exploring full-stack web development
-- 🧩 Practicing on LeetCode, CodeChef, and HackerRank
-- 🚀 Building projects that connect technology with real-world problems
-- 🤝 Open to collaborating on innovative projects and open source
-- 🎯 Working toward becoming a strong problem solver and software developer
+- 💻 Practicing Data Structures & Algorithms using C++
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🌐 Learning frontend and full-stack web development
+- ☕ Developing my backend skills with Java and Spring Boot
+- 🗄️ Strengthening my understanding of SQL and DBMS
+- 🧩 Practicing coding problems on LeetCode, CodeChef, and HackerRank
+- 🚀 Interested in building practical, meaningful software
+- 🤝 Open to learning, collaborating, and contributing to open source
 
 ---
 
 ## ✨ Beyond the Code
 
-> I'm not just learning technologies; I'm learning how to turn problems into solutions.
+> My goal isn't just to write code that works. It's to understand why it works and how to make it better.
 
-💡 **Curious Mind:** I like understanding the logic behind a solution instead of memorizing code.
+🧠 **Curious by Nature** — I like exploring concepts instead of blindly memorizing solutions.
 
-🛠️ **Builder at Heart:** I learn best by experimenting, making mistakes, debugging, and trying again.
+🛠️ **Learning by Doing** — I learn through experimentation, implementation, and debugging.
 
-🧩 **Problem Solver:** I enjoy breaking complex problems into smaller, manageable steps.
+🧩 **Problem-Solving Mindset** — I enjoy breaking complicated problems into smaller, manageable steps.
 
-🌱 **Growth Mindset:** Every error is feedback, every project is practice, and every challenge is an opportunity to improve.
+🌱 **Always Growing** — I see mistakes as opportunities to understand things more deeply.
 
-🚀 **My Mission:** Build meaningful projects, strengthen my fundamentals, and grow into a developer who creates useful technology.
+💡 **Future-Focused** — I'm working toward combining strong programming fundamentals with AI and software engineering.
 
 ---
 
-## 🧠 My Developer Mindset
+## 🧭 My Developer DNA
 
 <div align="center">
 
-| Stage | My Approach |
-|:---:|---|
-| 💡 01 | **Discover** — Understand the problem |
-| 🧠 02 | **Think** — Explore possible solutions |
-| 💻 03 | **Build** — Turn the idea into code |
-| 🐛 04 | **Debug** — Find and fix mistakes |
-| 📚 05 | **Learn** — Understand what went wrong |
-| 🚀 06 | **Improve** — Make the solution better |
+| My Principle | What It Means to Me |
+|---|---|
+| 💡 Curiosity | Ask questions and explore possibilities |
+| 🧠 Logic | Understand the problem before coding |
+| 🔨 Creativity | Turn ideas into practical solutions |
+| 🐛 Debugging | Treat errors as clues, not failures |
+| 🌱 Consistency | Make progress through regular practice |
+| 🚀 Improvement | Keep refining what I build |
 
-### `Think → Build → Break → Debug → Learn → Improve → Repeat`
+<br/>
+
+### My personal coding loop
+
+`Think` → `Build` → `Break` → `Debug` → `Learn` → `Improve` → `Repeat`
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🧠 My Learning Roadmap
 
-I'm building my skills step by step, connecting programming fundamentals with practical development.
+I'm building a strong foundation in programming while gradually expanding into software engineering and AI/ML.
 
 ```text
-C++ & DSA
-    |
-    v
-Problem Solving & Algorithms
-    |
-    v
-Web Development
-    |
-    v
-Backend Development & Databases
-    |
-    v
-Machine Learning & Data Science
-    |
-    v
-Deep Learning & Model Deployment
-    |
-    v
-Full-Stack + AI Applications
+              C / C++
+                 |
+                 v
+          Data Structures
+           & Algorithms
+                 |
+                 v
+          Problem Solving
+                 |
+          +------+------+
+          |             |
+          v             v
+    Web Development   Python & SQL
+          |             |
+          v             v
+    Backend & APIs   Data Science
+          |             |
+          |             v
+          |       Machine Learning
+          |             |
+          |             v
+          |        Deep Learning
+          |             |
+          +------+------+
+                 |
+                 v
+       Full-Stack + AI Projects
 ```
 
 ---
@@ -156,11 +168,11 @@ Full-Stack + AI Applications
 
 ---
 
-# 🧩 Problem Solving & DSA
+## 🧩 DSA & Problem Solving
 
-For me, DSA is not just about solving coding questions. It's about learning to think logically, recognize patterns, and write efficient solutions.
+For me, Data Structures and Algorithms are about more than passing test cases. They help develop logical thinking, recognize patterns, and understand efficient solutions.
 
-**Topics I'm practicing:**
+### Topics I'm Practicing
 
 - Arrays and Strings
 - Searching and Sorting
@@ -169,95 +181,88 @@ For me, DSA is not just about solving coding questions. It's about learning to t
 - Stacks and Queues
 - Linked Lists
 - Trees and Binary Search Trees
-- Recursion and Basic Dynamic Programming
-- SQL and Database Fundamentals
+- Recursion and Dynamic Programming fundamentals
 - Time and Space Complexity
+- SQL and Database Fundamentals
 
-### 📌 Coding Profiles
+### 💻 Coding Profiles
 
 <p>
   <a href="https://leetcode.com/u/anjalipandey2362/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.codechef.com/users/elect_hint_95">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
   <a href="https://www.hackerrank.com/profile/anjalipandey2362">
-    <img src="https://img.shields.io/badge/HackerRank-Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects & Hands-On Learning
 
-## 🌱 1. Crop Disease Detection Using Deep Learning
+I use projects and practical exercises to connect programming concepts with real-world applications.
 
-An AI/ML project exploring the classification of crop leaf images to identify potential plant diseases.
+### 🌱 Crop Disease Detection Using Deep Learning
 
-**Key areas:**
+Exploring the use of computer vision and deep learning to classify crop leaf images and identify potential diseases.
+
+**Areas of Work**
 - Image preprocessing and classification
 - CNN and transfer learning experiments
-- Model evaluation and prediction analysis
+- Model training and evaluation
 - Computer vision for agricultural applications
 
-**Tech:** Python · Deep Learning · Computer Vision
+**Technologies:** Python · Deep Learning · Computer Vision
 
-[Explore my repositories →](https://github.com/anjalipandey2362-ux?tab=repositories)
+[🔗 Explore My Repositories](https://github.com/anjalipandey2362-ux?tab=repositories)
 
-## 🏔️ 2. AI-Powered Landslide Early Warning & Monitoring Platform
+### 🎓 Student Growth & Placement Platform
 
-A hackathon project focused on assessing landslide risk in vulnerable regions of North-East India using environmental and geographical information.
+Exploring a student-focused platform concept for learning progress, skill development, and placement preparation.
 
-**Key areas:**
-- Rainfall and historical landslide records
-- Terrain, elevation, and satellite data concepts
-- GIS-based risk visualization
-- AI-assisted risk assessment and early-warning concepts
-
-**Focus:** AI/ML · Data Analysis · GIS · Risk Monitoring
-
-[Explore my repositories →](https://github.com/anjalipandey2362-ux?tab=repositories)
-
-## 🎓 3. Student Growth & Placement Platform
-
-A student-focused platform concept designed to support skill development, learning progress, and placement preparation.
-
-**Focus areas:**
+**Areas of Interest**
 - Student skill tracking
-- Learning and career preparation
-- Progress monitoring and student analytics
+- Learning progress and career preparation
+- Student analytics
 - Full-stack application development
 
-**Focus:** Web Development · Backend · Database · Student Analytics
+**Technologies:** Based on the actual implementation of the project.
 
-[Explore my repositories →](https://github.com/anjalipandey2362-ux?tab=repositories)
+[🔗 Explore My Repositories](https://github.com/anjalipandey2362-ux?tab=repositories)
 
-> Project descriptions reflect project goals and areas of work. Check individual repositories for the implemented features, technologies, and results.
+### 🔬 Learning Through Experiments
+
+Alongside projects, I practice programming, data analysis, SQL, and machine learning concepts through smaller exercises and experiments.
+
+[📂 View All Repositories](https://github.com/anjalipandey2362-ux?tab=repositories)
+
+> Project descriptions explain the areas I'm exploring. Please refer to individual repositories for implemented features, code, and measured results.
 
 ---
 
-## 🔬 My Project Philosophy
-
-I believe a good project is more than code that runs.
+## 🧪 How I Approach a Project
 
 <div align="center">
 
-| Step | Question I Ask |
-|---|---|
-| 🎯 Problem | What real problem am I solving? |
-| 🧠 Approach | Why is this solution suitable? |
-| ⚙️ Implementation | How can I build it reliably? |
-| 📊 Evaluation | How do I know it works? |
-| 🔧 Improvement | What can I make better? |
+| Step | My Focus |
+|:---:|---|
+| 🎯 01 | **Problem:** Understand the real need |
+| 🧠 02 | **Plan:** Choose an appropriate approach |
+| 💻 03 | **Build:** Implement the solution |
+| 🐛 04 | **Test:** Find errors and edge cases |
+| 📊 05 | **Evaluate:** Check whether it works |
+| 🔧 06 | **Improve:** Refine the solution |
 
 </div>
 
-**My goal:** Build projects that demonstrate not only what I know, but also how I think.
+**My belief:** A project becomes more valuable when you can explain the problem, justify your approach, and demonstrate the result.
 
 ---
 
-# 📊 GitHub at a Glance
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -271,7 +276,7 @@ I believe a good project is more than code that runs.
 
 <br/>
 
-<a href="https://github.com/anjalipandey2362-ux">
+<a href="https://streak-stats.demolab.com/?user=anjalipandey2362-ux">
   <img src="https://streak-stats.demolab.com/?user=anjalipandey2362-ux&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </a>
 
@@ -285,73 +290,61 @@ I believe a good project is more than code that runs.
 
 ---
 
-## 📈 My Learning Journey
+# 🎯 My 2026 Goals
+
+- [ ] Strengthen DSA and problem-solving fundamentals
+- [ ] Improve consistency in coding practice
+- [ ] Build and document practical AI/ML projects
+- [ ] Develop full-stack applications
+- [ ] Learn Java and Spring Boot more deeply
+- [ ] Improve SQL, DBMS, and backend development
+- [ ] Deploy projects and learn from real usage
+- [ ] Participate in hackathons and coding contests
+- [ ] Explore open-source contributions
+- [ ] Write clean, readable, maintainable code
+
+---
+
+## 🌟 What I'm Working Toward
 
 ```text
-       Programming
-            |
-            v
-       DSA & Logic
-            |
-            v
-      Web Development
-            |
-            v
-    Backend & Databases
-            |
-            v
-     AI / Data Science
-            |
-            v
-       Deep Learning
-            |
-            v
-  Intelligent Applications
-            |
-            v
-    Build. Deploy. Improve.
+Strong Fundamentals
+        +
+Consistent Problem Solving
+        +
+Practical Software Projects
+        +
+AI / ML Knowledge
+        +
+Continuous Improvement
+        =
+A Better Developer Every Day
 ```
 
 ---
 
-# 🎯 My 2026 Goals
+# 🤝 Let's Connect
 
-- [ ] Strengthen DSA and algorithmic thinking
-- [ ] Improve problem-solving consistency
-- [ ] Build and deploy practical AI/ML projects
-- [ ] Develop full-stack applications
-- [ ] Learn Java and Spring Boot fundamentals
-- [ ] Improve DBMS, SQL, and backend skills
-- [ ] Participate in hackathons and coding contests
-- [ ] Explore meaningful open-source contributions
-- [ ] Become better at writing clean, maintainable code
+I'm happy to connect with fellow students, developers, and tech enthusiasts who enjoy learning, sharing ideas, and building useful projects.
 
----
-
-# 🤝 Let's Connect & Collaborate
-
-I'm always interested in meeting people who enjoy learning, building, sharing ideas, and solving challenging problems.
-
-If you're working on an interesting project in **AI/ML, Data Science, DSA, or Software Development**, let's connect!
+Whether it's DSA, AI/ML, Data Science, or software development, I'm always open to learning and collaboration.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anjali-pandey-a61105363/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:anjalipandey2362@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
 <a href="https://github.com/anjalipandey2362-ux?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Projects-181717?style=for-the-badge&logo=github" alt="Projects"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github" alt="GitHub repositories"/>
 </a>
 
 <br/><br/>
 
-### 💜 A little progress every day adds up to big results.
+### 💜 Learn with curiosity. Build with purpose. Grow with consistency.
 
-**Code with purpose. Learn by building. Improve every day.**
-
-⭐ Thanks for visiting my profile!
+**Thanks for visiting my profile!** ⭐
 
 </div>
